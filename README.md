@@ -10,7 +10,7 @@ as the nearest earth object.</p>
 
 <li><b>id = </b> Unique identifier for each asteroid</li>
 <li><b>name = </b> Name given by NASA</li>
-<li><b>est_diameter_min = </b> Minimum estimated eiameter in kilometres</li>
+<li><b>est_diameter_min = </b> Minimum estimated diameter in kilometres</li>
 <li><b>est_diameter_max = </b> Maximum estimated diameter in kilometres</li>
 <li><b>relative_velocity = </b> Velocity relative to Earth</li>
 <li><b>miss_distance = </b> Distance in kilometres missed</li>
